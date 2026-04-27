@@ -1,0 +1,13 @@
+---
+title: "test repo code"
+author: "Phoebe Kaye Dupa"
+format: pdf
+---
+
+# Set up
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
